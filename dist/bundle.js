@@ -116,17 +116,7 @@ eval("\n\n/* istanbul ignore next  */\nfunction styleTagTransform(css, styleElem
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./style.css */ \"./src/style.css\");\n/* harmony import */ var _modules_sum__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modules/sum */ \"./src/modules/sum.js\");\n\n\n\nconsole.log((0,_modules_sum__WEBPACK_IMPORTED_MODULE_1__.sum)(3, 1));\n\n\n//# sourceURL=webpack://webpack-demo/./src/index.js?");
-
-/***/ }),
-
-/***/ "./src/modules/sum.js":
-/*!****************************!*\
-  !*** ./src/modules/sum.js ***!
-  \****************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   sum: () => (/* binding */ sum)\n/* harmony export */ });\nfunction sum(a, b) {\n  return a + b;\n}\n\n\n\n\n//# sourceURL=webpack://webpack-demo/./src/modules/sum.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./style.css */ \"./src/style.css\");\n\n\n\n//# sourceURL=webpack://webpack-demo/./src/index.js?");
 
 /***/ })
 
